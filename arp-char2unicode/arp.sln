@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arp", "arp\arp.vcproj", "{77FFFC0B-58F3-4FF4-873D-3459874A6249}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "char2unicode", "char2unicode\char2unicode.vcproj", "{80969C24-1845-4920-8B06-626D9BEC43BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FFFC0B-58F3-4FF4-873D-3459874A6249}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77FFFC0B-58F3-4FF4-873D-3459874A6249}.Debug|Win32.Build.0 = Debug|Win32
+		{77FFFC0B-58F3-4FF4-873D-3459874A6249}.Release|Win32.ActiveCfg = Release|Win32
+		{77FFFC0B-58F3-4FF4-873D-3459874A6249}.Release|Win32.Build.0 = Release|Win32
+		{80969C24-1845-4920-8B06-626D9BEC43BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80969C24-1845-4920-8B06-626D9BEC43BD}.Debug|Win32.Build.0 = Debug|Win32
+		{80969C24-1845-4920-8B06-626D9BEC43BD}.Release|Win32.ActiveCfg = Release|Win32
+		{80969C24-1845-4920-8B06-626D9BEC43BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
